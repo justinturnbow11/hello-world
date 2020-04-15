@@ -1,5 +1,6 @@
-#include <firstup.h>
+#include <studio.h>
 int main(void)
 {
-  printf("Hello Bitch I'm CEO");
+  printf("Hello Bitch I'm CEO/n");
 }
+clang studio.h
